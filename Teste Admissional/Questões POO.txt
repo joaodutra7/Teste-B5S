@@ -1,0 +1,9 @@
+Questão POO - Escreva a diferença entre interfaces, instâncias, objetos e classes no contexto de orientação a objeto:
+
+Interface - O conceito de interface pode ser compreendido como a declaração de um ou mais métodos sem corpo, cada método define uma funcionalidade respectivamente, cabendo as classes optar sobre como utilizá-las.
+
+Instâncias - Para que um objeto exista na memória é necessário criar uma instância de uma classe, ou seja, instância é a materialização de uma classe.
+
+Objeto - Um objeto representa alguma entidade (abstrata ou concreta), possui características próprias (atributos) e executa ações (métodos), oriundo da classe que o originou.
+
+Classe - Cada classe recebe um nome que é formada por atributos e métodos que virão a servir de “molde” para a criação de um objeto.
